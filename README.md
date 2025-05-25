@@ -13,4 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 🏀
 - 😄 Pronouns: WJQ
 - ⚡ Fun fact: 🏀
--->
+--><span > 
+ < img alt="Static Badge" src="https://img.shields.io/badge/Vue-%2342b883?style=flat-square&logo=Vue&logoColor=%23fff"> 
+ < img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-%230072b3?style=flat-square&logo=TypeScript&logoColor=%23fff"> 
+</span>
+
