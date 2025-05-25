@@ -70,4 +70,10 @@ Here are some ideas to get you started:
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-
+<style>
+body {
+    background-image: url(""C:\Users\wjq05\Desktop\微信图片_20250525170036.jpg"");
+    background-size: cover; /* 设置图片覆盖整个页面，可按需调整 */
+    background-repeat: no-repeat; /* 防止图片重复 */
+}
+</style>
